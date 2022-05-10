@@ -1,6 +1,6 @@
 # stock-analysis
 ## **Overview of VBA_Challenge**
-The Purpose of this analysis is to refactor our Module 1 code to loop and retrieve stock ticker data for all stock indexes in 2017 and 2018 at a more efficient speed.
+The Purpose of this analysis is to refactor code to loop and retrieve stock ticker data for all stock indexes in 2017 and 2018 at a more efficient speed.
 
 ## **Results**
 Our Module 1 code ran at 0.7109375 seconds for the 2017 data set.
